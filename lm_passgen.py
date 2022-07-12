@@ -1,3 +1,5 @@
+# zenfosec 2010
+
 #!/usr/bin/env python
 
 import sys
